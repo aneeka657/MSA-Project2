@@ -1,0 +1,7 @@
+numpy
+tensorflow
+scipy
+mir_eval
+librosa
+tqdm
+glob2
