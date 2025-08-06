@@ -205,8 +205,11 @@ They include per-epoch boundary plots, confusion matrices, and metric summaries.
 ```
 
 ---
+## 10. Results
+For my first attempt , the results are saved into results-for-beatles.png as I have used Beatles for testing purpose and Salami and Harmonix for training (original+augmented). 
 
-## 10. Notes
+
+## 11. Notes
 
 - Ensure datasets follow the same structure before preprocessing.
 - If using **augmented data**, match annotation files carefully to generated audio.
@@ -214,6 +217,6 @@ They include per-epoch boundary plots, confusion matrices, and metric summaries.
 
 ---
 
-**Author:** Irfan Ahmad  
+**Author:** Aneeka Azmat  
 **Purpose:** Research on music structure analysis with drum-aware Transformer models.
 
