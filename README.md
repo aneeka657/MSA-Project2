@@ -163,15 +163,7 @@ If you have the provided **preprocessed data folders**:
 - `my_beatles_data: https://drive.google.com/drive/folders/1eoq21awwnIX5_NCoEkscoaSJ5nibzK3C?usp=sharing
 
 
-
-## 8. Results
-
-Example evaluation outputs are saved as `.png` in the results folder.  
-They include per-epoch boundary plots, confusion matrices, and metric summaries.
-
----
-
-## 9. Project Structure
+## 8. Project Structure
 
 ```
 
@@ -214,13 +206,13 @@ They include per-epoch boundary plots, confusion matrices, and metric summaries.
 ```
 
 ---
-## 10. Results
+## 9. Results
 For my first attempt , the results are saved into results-for-beatles.png as I have used Beatles for testing purpose and Salami and Harmonix for training (original+augmented). 
 
 I got no improvement from epoch 10 to 34 that I also have saved into no-improvemnet-epoch34.png.
 
 
-## 11. Notes
+## 10. Notes
 
 - Ensure datasets follow the same structure before preprocessing.
 - If using **augmented data**, match annotation files carefully to generated audio.
