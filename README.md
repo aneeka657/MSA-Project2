@@ -207,9 +207,9 @@ If you have the provided **preprocessed data folders**:
 
 ---
 ## 9. Results
-For my first attempt , the results are saved into results-for-beatles.png as I have used Beatles for testing purpose and Salami and Harmonix for training (original+augmented). 
+For my first attempt , the results are saved into **results-for-beatles.png** as I have used Beatles for testing purpose and Salami and Harmonix for training (original+augmented). 
 
-I got no improvement from epoch 10 to 34 that I also have saved into no-improvemnet-epoch34.png.
+I got no improvement from epoch 10 to 34 that I also have saved into **no-improvemnet-epoch34.png**.
 
 
 ## 10. Notes
